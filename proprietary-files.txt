@@ -88,3 +88,6 @@ vendor/lib/libhdmipassthru.so
 vendor/lib/libqtigef.so
 vendor/lib/libsurround_3mic_proc.so
 vendor/lib64/libadsprpc.so
+
+# Audio Amplifier
+vendor/firmware/tfa98xx.cnt
